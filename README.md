@@ -1,6 +1,6 @@
 # Minishell
 
-> Projet réalisé à l'École 42 Paris
+> Projet réalisé à l'École 42 Paris — projet de groupe
 
 ## 📖 Description
 Implémentation d'un shell UNIX fonctionnel en C, capable d'interpréter et exécuter des commandes, gérer les redirections et les pipes.
